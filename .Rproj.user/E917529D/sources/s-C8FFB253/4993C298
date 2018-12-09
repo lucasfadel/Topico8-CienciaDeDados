@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544375248700.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4993C298",
+    "lastKnownWriteTime" : 304942678083,
+    "last_content_update" : 1544375248700,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "48CE007B",
+        "caption" : "exercicio5",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=exercicio5&cache_key=48CE007B",
+        "displayedObservations" : 5,
+        "environment" : "",
+        "object" : "exercicio5",
+        "preview" : 0,
+        "totalObservations" : 5,
+        "variables" : 2
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
